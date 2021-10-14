@@ -8,16 +8,21 @@
     <style>
         p{
             color: red;
-            font-size: 20px;
+          font-size: 20px;
         }
     </style>
 </head>
 <body>
-    <p id="p1">3411007012</p>
+    <P id="p1">學號3411007012</P>
 </body>
 <script>
     document.getElementById("p1").onclick=function(){
-    alert("郭硯霆");
-};
+        alert('郭硯霆');
+    };
 </script>
 </html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Statu
